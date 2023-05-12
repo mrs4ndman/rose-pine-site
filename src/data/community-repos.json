@@ -266,11 +266,20 @@
 	{
 		"name": "Tilix",
 		"url": "https://github.com/annappropriate/rose-pine-tilix",
-		"tags": ["app", "terminal-emulator"],
+		"tags": ["app", "terminal-emulator", "tmux"],
 		"authors": [
 			{ "name": "Anna Z", "url": "https://github.com/annappropriate" }
 		],
 		"has_variants": true
+	},
+	{
+		"name": "Tmux",
+		"url": "https://github.com/mrs4ndman/rose-pine-tmux",
+		"tags": ["app", "terminal-emulator"],
+		"authors": [
+			{ "name": "Juan M", "url": "https://github.com/mrs4ndman" }
+		],
+		"has_variants": false
 	},
 	{
 		"name": "Twitter",
